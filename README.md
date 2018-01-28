@@ -8,4 +8,4 @@ This repository is used to record all papers I read, including the post I wrote 
 
 2018
 ====
-- Towards Zero Copy Dataflows using RDMA
+- [Towards Zero Copy Dataflows using RDMA](http://hwchiu.com/paper-tensorflow-with-rdma.html)
